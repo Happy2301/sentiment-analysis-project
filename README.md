@@ -67,7 +67,7 @@ print(analysis.sentiment.polarity)  # Outputs polarity score
 ---
 
 ## Author
-Harpreet Singh  
+Harpreet Singh,Asilbek Turgunboev
 GitHub: https://github.com/Happy2301
 
 
