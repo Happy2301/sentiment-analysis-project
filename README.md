@@ -67,6 +67,7 @@ print(analysis.sentiment.polarity)  # Outputs polarity score
 ---
 
 ## Author
-**Your Name Here**  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+Harpreet Singh  
+GitHub: https://github.com/Happy2301
+
 
